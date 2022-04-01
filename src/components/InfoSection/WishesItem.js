@@ -5,7 +5,7 @@ import { Card, Icon , Grid, Image} from 'semantic-ui-react'
 import temple from '@assets/images/udupitemple1.jpeg';
 import malpe from '@assets/images/malpe.jpeg';
 import pithrodybeach from '@assets/images/pitrodibeach.jpeg';
-import sringeri from '@assets/images/sringeri.png';
+import sringeri from '@assets/images/Sringeri.png';
 import mangalore from '@assets/images/mangalore.png';
 import stmary from '@assets/images/stmary.jpeg';
 import './styles.css'
