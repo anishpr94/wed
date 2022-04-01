@@ -5,6 +5,8 @@ import { Card, Icon , Grid, Image} from 'semantic-ui-react'
 import temple from '@assets/images/udupitemple1.jpeg';
 import malpe from '@assets/images/malpe.jpeg';
 import pithrodybeach from '@assets/images/pitrodibeach.jpeg';
+import sringeri from '@assets/images/sringeri.png';
+import mangalore from '@assets/images/mangalore.png';
 import stmary from '@assets/images/stmary.jpeg';
 import './styles.css'
 
@@ -86,6 +88,21 @@ export const GridExampleDividedPhrase = () => (
           <span className="infoName">Mesmerizing Island, <a href="https://goo.gl/maps/m1c7437AwZcsYjxv7">Click to get location</a></span>
           <img src={stmary} alt="user" loading="lazy" />
             <p className="description">St. Mary's Islands, also known as Coconut Island and Thonsepar, are a set of four small islands in the Arabian Sea off the coast of Malpe in Udupi, Karnataka, India. They are known for their distinctive geological formation of columnar rhyolitic lava. </p>
+        </Grid.Column>
+      </Grid.Row>
+
+      <Grid.Row>
+        <Grid.Column>
+          <h4>Sringeri</h4>
+          <span className="infoName">A divine place, <a href="https://goo.gl/maps/a3d2TWd1GHvhzohS7">Click to get location</a></span>
+          <img src={sringeri} alt="user" loading="lazy" />
+          <p className="description">Sringeri also called Sri Kshetra Shringeri is a hill town and Taluk headquarters located in Chikkamagaluru district in the Indian state of Karnataka. It is the site of the first maṭha established by Adi Shankara, Hindu theologian and exponent of the Advaita Vedanta philosophy, in the 8th century CE</p>
+        </Grid.Column>
+        <Grid.Column>
+          <h4>St. Mary's Islands</h4>
+          <span className="infoName">Mesmerizing Island, <a href="https://goo.gl/maps/m1c7437AwZcsYjxv7">Click to get location</a></span>
+          <img src={mangalore} alt="user" loading="lazy" />
+          <p className="description">Mangalore (or Mangaluru) is an Arabian Sea port and a major commercial center in the Indian state of Karnataka. It's home to the Kadri Manjunath Temple, known for its bronze statues, and the 9th-century Mangaladevi Temple. Its Catholic sites include Milagres Church, dating to the 17th century, and St. Aloysious Chapel, which features interior paintings. Tannirbhavi Beach is popular for its sunset views.</p>
         </Grid.Column>
       </Grid.Row>
     </Grid>

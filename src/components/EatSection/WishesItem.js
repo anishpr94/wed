@@ -5,6 +5,7 @@ import mtr from '@assets/images/mtr.png';
 import macholi from '@assets/images/macholi.png';
 import froth from '@assets/images/froth.png';
 import woodlands from '@assets/images/woodlands.png';
+import diana from '@assets/images/diana.png';
 import './styles.css'
 
 export const ItemExampleDescriptions = () => (
@@ -75,6 +76,22 @@ export const ItemExampleDescriptions = () => (
                     <p>
                         <blockquote>"They serve the freshest fish, and their ghee roast is mind blowing."</blockquote>
                         <a href="https://maps.google.com/maps?ll=13.336851,74.740051&z=10&t=m&hl=en&gl=IN&mapclient=embed&cid=10867398148937963394">Click to get location</a>
+                    </p>
+                </Item.Description>
+            </Item.Content>
+        </Item>
+
+        <Item>
+            <Item.Image size='small' src={diana} />
+
+            <Item.Content>
+                <Item.Header as='a'>Hotel Diana</Item.Header>
+                <Item.Description>
+                    <p>
+                        <blockquote>"Good ambiance, good spaces
+                            One of the famous hotel for Gadbad icecream in Udupi city..also good place to have quick quality varieties of snacks items like set dosa, pavbhaji, cutlets, chole bhature and many more
+                            Also there is one good  Panwala Yadavji for variety of Pans"</blockquote>
+                        <a href="https://goo.gl/maps/yVnmAWvLinRizEDA6">Click to get location</a>
                     </p>
                 </Item.Description>
             </Item.Content>

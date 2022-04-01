@@ -11,7 +11,7 @@ function InfoContainer() {
     return wishlist.map((w, index) => <InfoItem key={index} {...w} />);
   };
   return (
-    <div className="wrap-testimony">
+    <div className="wrap-testimony-1">
       <GridExampleDividedPhrase/>
     </div>
   );

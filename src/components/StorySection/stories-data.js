@@ -1,9 +1,6 @@
-import ImgKembaliBerjumpa from '@assets/images/p-kembali-berjumpa.jpg';
-import ImgJakartaKroasia from '@assets/images/p-jakarta-kroasia.jpg';
 import Marriage from '@assets/images/arranged.jpeg';
 import Together from '@assets/images/gettogether.png';
 import Reception from '@assets/images/wedReception.jpeg';
-import Pooja from '@assets/images/pooja.jpg';
 import React from 'react';
 
 export const stories = [
@@ -28,17 +25,6 @@ export const stories = [
                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3882.1874789500757!2d74.73475571482592!3d13.338611090615892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbcbb7708e8b0c9%3A0x1cbe072fc357c9a6!2sShamili!5e0!3m2!1sen!2sin!4v1648792452019!5m2!1sen!2sin"
                  style={{border:0, height:'100px', width:'100%'}} allowFullScreen="" loading="lazy"
                  referrerPolicy="no-referrer-when-downgrade"/>
-  },
-  {
-    title: 'Avathanam',
-    date: '1st May 2022',
-    description:
-      'Sathyanaraya pooja will be held on saturday morning from 8:30 AM. Breakfast will start from 8:00 AM. ',
-    image: Pooja,
-    map: <iframe title="avathanam"
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.9075415535185!2d76.35200791548097!3d9.94165067676224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b08737925555555%3A0xc62d63ca0940cc9!2sDakshina%20Udupi%20Dhanwanthari%20Mutt!5e0!3m2!1sen!2sin!4v1648799177567!5m2!1sen!2sin"
-    style={{border: 0, height: '100px', width: '100%'}}  allowFullScreen="" loading="lazy"
-    referrerPolicy="no-referrer-when-downgrade"/>
   },
   {
     title: 'The wedding reception',
