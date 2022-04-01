@@ -99,8 +99,8 @@ export const GridExampleDividedPhrase = () => (
           <p className="description">Sringeri also called Sri Kshetra Shringeri is a hill town and Taluk headquarters located in Chikkamagaluru district in the Indian state of Karnataka. It is the site of the first maṭha established by Adi Shankara, Hindu theologian and exponent of the Advaita Vedanta philosophy, in the 8th century CE</p>
         </Grid.Column>
         <Grid.Column>
-          <h4>St. Mary's Islands</h4>
-          <span className="infoName">Mesmerizing Island, <a href="https://goo.gl/maps/m1c7437AwZcsYjxv7">Click to get location</a></span>
+          <h4>Mangalore</h4>
+          <span className="infoName">The beautiful port city, <a href="https://goo.gl/maps/m1c7437AwZcsYjxv7">Click to get location</a></span>
           <img src={mangalore} alt="user" loading="lazy" />
           <p className="description">Mangalore (or Mangaluru) is an Arabian Sea port and a major commercial center in the Indian state of Karnataka. It's home to the Kadri Manjunath Temple, known for its bronze statues, and the 9th-century Mangaladevi Temple. Its Catholic sites include Milagres Church, dating to the 17th century, and St. Aloysious Chapel, which features interior paintings. Tannirbhavi Beach is popular for its sunset views.</p>
         </Grid.Column>
