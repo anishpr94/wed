@@ -1,3 +1,8 @@
 .card {
   width: 100% !important;
+  height: 100%;
+}
+
+.customMessage {
+ text-align: center;
 }

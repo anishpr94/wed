@@ -21,6 +21,7 @@ export const styWrapperItem = css`
       
 .card {
   width: 100% !important;
+  height: 100%;
 }
 
   h4 {
