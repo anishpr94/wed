@@ -15,7 +15,7 @@ function WishesSection() {
             <div className="col-md-12">
               <WishesContainer />
             </div>
-            <h4 className='customMessage'> Note: Accommodations have been booked as per communicated, please inform us atleast 2 weeks in advance in-case you need help or bookings</h4>
+            <h4 className='customMessage'> Note: Accommodations have been booked as per communicated, please inform us atleast 2 weeks in advance, in-case you need help or bookings</h4>
           </div>
         </div>
       </div>
