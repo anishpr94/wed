@@ -32,7 +32,6 @@ function WishesItem({ image, name, infoName, description, isActive, map }) {
             image={image}
             header={name}
             meta={description}
-            description={description}
             extra={map}
         />
     );
