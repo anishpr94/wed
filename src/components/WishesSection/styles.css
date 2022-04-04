@@ -1,8 +1,15 @@
 .card {
-  width: 100% !important;
+  width: 60% !important;
   height: 100%;
 }
 
 .customMessage {
  text-align: center;
+    padding:20px;
+}
+
+
+
+.wrap-testimony {
+    flex-direction: column;
 }

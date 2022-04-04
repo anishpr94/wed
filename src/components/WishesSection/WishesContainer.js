@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 
 import WishesItem from './WishesItem';
 import {wishlist} from './wishlist-data';
+import './styles.css'
 
 const INTERVAL_SLIDE = 35000;
 
