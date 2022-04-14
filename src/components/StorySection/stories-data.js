@@ -10,7 +10,7 @@ export const stories = [
     title: 'Mehendi',
     date: '22 April 2022',
     description:
-        'A Mehendi pre-wedding ceremony will be held, where the bride gets the red-orange mehndi "stain" applied to her palms, back of hands, and feet',
+        'A Mehendi pre-wedding ceremony will be held at 5:00 PM on Friday 22nd April, where the bride gets the red-orange mehendi "stain" applied to her palms, back of hands, and feet',
     image: Mehandi,
     map: <div><b>Location</b>: Lakshmi Nilayam, Kadambar, Manjeshwar - 671323</div>
   },
