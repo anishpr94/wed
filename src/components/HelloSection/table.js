@@ -25,7 +25,7 @@ const TableExamplePagination = () => (
           </Table.Row>
           <Table.Row>
               <Table.Cell>Sukanya Rao</Table.Cell>
-              <Table.Cell><a href="tel:8277390113">8277390113</a></Table.Cell>
+              <Table.Cell><a href="tel:8217256638">8217256638</a></Table.Cell>
               <Table.Cell>Bride's Mother</Table.Cell>
           </Table.Row>
           <Table.Row>
